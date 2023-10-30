@@ -22,3 +22,11 @@ Suba o projeto em um repositório Git remoto e coloque o link da imagem que subi
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
+
+**Como executar**
+
+Para executar image fullcylce, basta apenas e excutar o seguinte comando:
+
+        docker run cesarodrigues/fullcycle
+
+Vale ressaltar que é necessário ter o Docker instalado em sua máquina para executar o comando acima.
